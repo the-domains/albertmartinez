@@ -1,0 +1,45 @@
+name: albertmartinez
+analytics: {}
+github: true
+description: my website portfolio for my creative work
+author:
+  name: Albert Martinez
+  url: 'http://ialbertmartinez.com'
+  email: ialbertm@icloud.com
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content: []
+layout_spectrum: 0.5401094360277057
+color:
+  lightness: 0.4983613088261336
+  brandColors:
+    - '#00585F'
+    - '#009393'
+    - '#FFFCC4'
+    - '#F0EDBB'
+    - '#FF3800'
+  saturation: 0.5588299725204706
+  brandStrength: 0.9863304616883397
+  rhythmicContrast: 0.7091576470993459
+content_rating:
+  adult: false
+typography_spectrum: 0.008262506453320384
+opengraph: {}
+title: iAM
