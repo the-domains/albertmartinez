@@ -1,7 +1,9 @@
 name: albertmartinez
 analytics: {}
 github: true
-description: my website portfolio for my creative work
+description: >-
+  my online portfolio for my creative work: i.e., branding, logos, website
+  design and development. 
 author:
   name: Albert Martinez
   url: 'http://ialbertmartinez.com'
@@ -19,12 +21,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 content: []
 layout_spectrum: 0.5401094360277057
 color:
@@ -42,4 +44,4 @@ content_rating:
   adult: false
 typography_spectrum: 0.008262506453320384
 opengraph: {}
-title: iAM
+title: iAlbert Martinez | Creative Portfolio
